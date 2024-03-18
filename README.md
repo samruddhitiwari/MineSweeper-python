@@ -27,7 +27,7 @@ Tkinter library (usually comes pre-installed with Python)
 Known Issues
 Currently, this implementation works on Windows systems due to the usage of ctypes.windll.user32.MessageBoxW for displaying message boxes. For other platforms, adjustments may be needed.
 Credits
-This Minesweeper game is created by [Your Name].
+This Minesweeper game is created by Samruddhi Tiwari.
 
 License
 This project is licensed under the MIT License.
